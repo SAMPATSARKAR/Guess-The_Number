@@ -1,2 +1,4 @@
 # Guess-The_Number
-![App Screenshot](<asset/Screenshot.png>)
+
+#preview
+![App Preview](asset/Screenshot.png)
