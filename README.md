@@ -1,4 +1,4 @@
 # Guess-The_Number
 
 #preview
-![App Preview](asset/Screenshot.png)
+![App Preview](assets/Screenshot.png)
